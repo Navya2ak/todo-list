@@ -1,0 +1,25 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Todo List Using TS",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navya2ak/todo-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Navya2ak/todo-list/issues"
+  },
+  "homepage": "https://github.com/Navya2ak/todo-list#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
